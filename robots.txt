@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://smernick.github.io/sitemap.xml 
